@@ -1,0 +1,7 @@
+title:DIM Wishlists
+description:personal opinions about weapon rolls
+
+#episode 2: revenant
+
+# ignition code
+dimwishlist:item=2761869150&perks=1844523823,3032599245
