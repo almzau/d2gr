@@ -4,4 +4,35 @@ description:personal opinions about weapon rolls
 #episode 2: revenant
 
 # ignition code
+//notes: PvE Controller
 dimwishlist:item=2761869150&perks=1844523823,3032599245
+dimwishlist:item=2761869150&perks=3525010810,3301904089,3108830275,1546637391
+
+# live fire
+//notes: PvE Controller
+dimwishlist:item=3612142623&perks=839105230,3230963543,247725512,3700496672
+dimwishlist:item=3612142623&perks=839105230,3230963543,247725512,124408337
+dimwishlist:item=3612142623&perks=839105230,3230963543,1955165503,124408337
+
+# sacred provenance
+//notes: PvE Controller
+dimwishlist:item=2241507890&perks=839105230,3230963543,247725512,3891536761
+dimwishlist:item=2241507890&perks=3661387068,2420895100,247725512,3891536761
+
+# braytech werewolf
+//notes: PvE Controller
+dimwishlist:item=3558681245&perks=1482024992,1885400500,3418782618,3891536761
+
+# bygones
+//notes: PvE Controller
+dimwishlist:item=2199554524&perks=839105230,3230963543,1820235745,3891536761
+
+# plug one.1
+//notes: PvE Controller
+dimwishlist:item=3293524502&perks=3661387068,2969185026,1523832109,2594592626,1281216113
+
+# ancient gospel
+dimwishlist:item=963574173&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=963574173&perks=1482024992,3230963543,2048641572,3038247973
+
+
