@@ -1,5 +1,5 @@
 # barrier champ - chain of command
-notes: good for barrier champs in -50 content
+//notes: good for barrier champs in -50 content
 dimwishlist:item=1716620044&perks=4090651448,1968497646,1870851715,1048183818,3846229553
 dimwishlist:item=1716620044&perks=1840239774,1968497646,1870851715,1048183818,3846229553
 dimwishlist:item=1716620044&perks=1482024992,1968497646,1870851715,1048183818,3846229553
